@@ -3,3 +3,4 @@ An open-source infrastructure layer for background AI workflows/agents that is r
 
 ### Quick Links:
 - [Website](https://exosphere.host)
+- [Backlog](https://github.com/orgs/exospherehost/projects/1)
