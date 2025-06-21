@@ -6,3 +6,4 @@ To realize this, we are pioneering an open-source infrastructure layer for backg
 - [Website](https://exosphere.host)
 - [Backlog](https://github.com/orgs/exospherehost/projects/1)
 - [Discord](https://discord.gg/JzCT6HRN)
+- [Docs](https://docs.exosphere.host)
